@@ -1,2 +1,1 @@
-<!-- Proyecto Final Python -->
-<!-- Andre De la Rosa -->
+Issis Beltrán - Proyecto Python 
